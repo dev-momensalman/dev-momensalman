@@ -70,11 +70,21 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 ---
 
+---
+
 ### 🚀 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/momensalman/)  
-- 💻 [GitHub](https://github.com/dev-momensalman)  
-- 📧 Email  
+<p align="left">
+  <a href="https://www.linkedin.com/in/momensalman/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" style="margin-right:10px"/>
+  </a>
+  <a href="https://github.com/dev-momensalman" target="_blank">
+    <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" style="margin-right:10px"/>
+  </a>
+  <a href="mailto:momensalman78@gmail.com" target="_blank">
+    <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
+  </a>
+</p>
 
 ---
 

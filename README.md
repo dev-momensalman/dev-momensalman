@@ -70,7 +70,7 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 ---
 
----
+
 
 ---
 
@@ -95,8 +95,6 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 ### 📈 My Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-momensalman&theme=dark" alt="Momen's Streak" />
-</p>
-
----
+</p>---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*

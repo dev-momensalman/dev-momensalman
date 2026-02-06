@@ -6,7 +6,7 @@
 </a>
 <a href="https://github.com/dev-momensalman" target="_blank">
   <img align="left" alt="GitHub" height="18px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="filter: invert(100%)"/>
 </a>
 
 <br />
@@ -49,11 +49,11 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Dark-Friendly)
 
-![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-momensalman&show_icons=true&theme=tokyonight)
+![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-momensalman&show_icons=true&theme=dark&hide_title=false&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-momensalman&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-momensalman&layout=compact&theme=dark)
 
 ---
 

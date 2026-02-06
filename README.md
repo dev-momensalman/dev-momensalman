@@ -5,8 +5,10 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://github.com/dev-momensalman" target="_blank">
+  <!-- GitHub white logo مناسب للداكن -->
   <img align="left" alt="GitHub" height="18px"
-       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="filter: invert(100%)"/>
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+       style="filter: invert(100%); margin-left: 10px;" />
 </a>
 
 <br />

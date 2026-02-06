@@ -10,7 +10,7 @@
       &nbsp;
       <a href="https://github.com/dev-momensalman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
       &nbsp;
-      <a href="mailto:momensalman78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="mailto:momensalman.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" />
@@ -69,7 +69,7 @@
 
 
 <p align="center">
-  <a href="https://wa.me/201016834047" target="_blank">
+  <a href="https://wa.me/201060782406" target="_blank">
     <img src="https://img.shields.io/badge/Contact_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>

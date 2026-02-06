@@ -1,100 +1,93 @@
-## Hey 👋, I'm Momen Salman!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" />
+</p>
 
-<a href="https://www.linkedin.com/in/momensalman/" target="_blank">
-  <img align="left" alt="LinkedIn" height="18px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://github.com/dev-momensalman" target="_blank">
-  <!-- GitHub logo باللون الأسود على خلفية بيضاء -->
-  <img align="left" alt="GitHub" height="18px"
-       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-       style="margin-left: 10px;" />
-</a>
+<h1 align="center">Hey 👋, I'm Momen Salman!</h1>
 
-<br />
-<br />
+<p align="center">
+  <strong>Passionate Flutter Developer 📱 & Web Developer 🌐</strong><br>
+  I build clean, functional, and user-friendly applications with a focus on performance and design.
+</p>
 
-I am a passionate **Flutter Developer 📱 & Web Developer 🌐**  
-I love building **clean, functional, and user-friendly applications** with a focus on performance and design.  
-I enjoy learning new technologies and turning ideas into real projects 🚀
-
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
----
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; Currently working on **Flutter Applications**
-- 🌱 &nbsp; Learning **Advanced Flutter, State Management & React**
-- 👨🏻‍💻 &nbsp; All my projects are available on [GitHub](https://github.com/dev-momensalman)
-- 💬 &nbsp; Ask me about **Flutter, Dart, Web Development**
-- 📫 &nbsp; Reach me on **LinkedIn**
-- 📱 &nbsp; Interested in **Mobile Apps & Educational Platforms**
-- 🕌 &nbsp; Working on Islamic apps like *"خليك مؤمن"*
-
----
-
-### 🔨 Languages & Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/momensalman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dev-momensalman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:momensalman78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats (Dark-Friendly)
+### 🧐 More About Me
 
-![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-momensalman&show_icons=true&theme=dark&hide_title=false&hide_border=false&count_private=true)
+<p align="center">
+  🔭 Currently working on <b>Flutter Applications</b> <br>
+  🌱 Learning <b>Advanced Flutter, State Management & React</b> <br>
+  🕌 Working on Islamic apps like <b>"خليك مؤمن"</b> <br>
+  💬 Ask me about <b>Flutter, Dart, and Web Development</b>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-momensalman&layout=compact&theme=dark)
+---
+
+### 🔨 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
+</p>
 
 ---
 
 ### 🛠️ Featured Projects
 
-- 📱 **Flutter To-Do Manager**
-- 🕌 **خليك مؤمن – Islamic Flutter App**
-- 🌐 **Personal Portfolio Website**
-- 📚 **Educational Web Application**
+<div align="center">
 
-> ⭐ More projects on my GitHub repositories
+| Project | Category | Tech Stack | Link |
+| :--- | :---: | :---: | :---: |
+| **خليك مؤمن** | Islamic App | Flutter & Firebase | [View](https://github.com/dev-momensalman) |
+| **To-Do Manager** | Productivity | Flutter & Dart | [View](https://github.com/dev-momensalman) |
+| **Personal Portfolio** | Web | HTML, CSS, JS | [View](https://github.com/dev-momensalman) |
+| **Educational Platform** | Web | React | [View](https://github.com/dev-momensalman) |
+
+</div>
 
 ---
 
+### 📊 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-momensalman&show_icons=true&theme=dark&count_private=true" alt="Momen's GitHub Stats" height="180px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-momensalman&layout=compact&theme=dark" alt="Top Languages" height="180px" />
+</p>
 
----
-
-### 🚀 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/momensalman/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/dev-momensalman" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:momensalman78@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://wa.me/201016834047" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-momensalman&theme=dark" alt="Momen's Streak" />
 </p>
 
 ---
 
-### 📈 My Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-momensalman&theme=dark" alt="Momen's Streak" />
-</p>---
+<p align="center">
+  <a href="https://wa.me/201016834047" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+<p align="center">
+  ⭐ <i>If you like my work, consider giving a star to my repositories!</i>
+</p>

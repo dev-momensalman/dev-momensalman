@@ -76,41 +76,26 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 ### 🚀 Let's Connect
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+<p align="left">
+<a href="https://www.linkedin.com/in/momensalman/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/dev-momensalman" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:momensalman78@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/201016834047" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+</p>
 
-  <!-- LinkedIn Card -->
-  <a href="https://www.linkedin.com/in/momensalman/" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 15px; border-radius: 10px; background-color: #0A66C2; color: white; font-weight: bold; transition: transform 0.2s;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25"/>
-      LinkedIn
-    </div>
-  </a>
+---
 
-  <!-- GitHub Card -->
-  <a href="https://github.com/dev-momensalman" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 15px; border-radius: 10px; background-color: #333; color: white; font-weight: bold; transition: transform 0.2s;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="25"/>
-      GitHub
-    </div>
-  </a>
-
-  <!-- Email Card -->
-  <a href="mailto:momensalman78@gmail.com" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 15px; border-radius: 10px; background-color: #D14836; color: white; font-weight: bold; transition: transform 0.2s;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="25"/>
-      Email
-    </div>
-  </a>
-
-</div>
-
-<style>
-  div a div:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-  }
-</style>
-
+### 📈 My Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-momensalman&theme=dark" alt="Momen's Streak" />
+</p>
 
 ---
 

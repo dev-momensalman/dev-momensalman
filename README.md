@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Momen Salman!
 
-<a href="https://www.linkedin.com/in/momen-salman/" target="_blank">
+<a href="https://www.linkedin.com/in/momensalman/" target="_blank">
   <img align="left" alt="LinkedIn" height="18px"
        src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" />
 </a>
-<a href="https://github.com/momensalman" target="_blank">
+<a href="https://github.com/dev-momensalman" target="_blank">
   <img align="left" alt="GitHub" height="18px"
        src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" />
 </a>
@@ -24,7 +24,7 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 - 🔭 &nbsp; Currently working on **Flutter Applications**
 - 🌱 &nbsp; Learning **Advanced Flutter, State Management & React**
-- 👨🏻‍💻 &nbsp; All my projects are available on [GitHub](https://github.com/momensalman)
+- 👨🏻‍💻 &nbsp; All my projects are available on [GitHub](https://github.com/dev-momensalman)
 - 💬 &nbsp; Ask me about **Flutter, Dart, Web Development**
 - 📫 &nbsp; Reach me on **LinkedIn**
 - 📱 &nbsp; Interested in **Mobile Apps & Educational Platforms**

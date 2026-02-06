@@ -2,11 +2,11 @@
 
 <a href="https://www.linkedin.com/in/momensalman/" target="_blank">
   <img align="left" alt="LinkedIn" height="18px"
-       src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" />
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://github.com/dev-momensalman" target="_blank">
   <img align="left" alt="GitHub" height="18px"
-       src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" />
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
 
 <br />
@@ -35,25 +35,25 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 ### 🔨 Languages & Tools:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" height="42"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momensalman&show_icons=true&theme=tokyonight)
+![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-momensalman&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momensalman&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-momensalman&layout=compact&theme=tokyonight)
 
 ---
 
@@ -70,8 +70,8 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 ### 🚀 Let's Connect
 
-- 💼 LinkedIn  
-- 💻 GitHub  
+- 💼 [LinkedIn](https://www.linkedin.com/in/momensalman/)  
+- 💻 [GitHub](https://github.com/dev-momensalman)  
 - 📧 Email  
 
 ---

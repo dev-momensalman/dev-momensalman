@@ -5,9 +5,9 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://github.com/dev-momensalman" target="_blank">
-  <!-- GitHub white logo مناسب للداكن -->
+  <!-- GitHub logo باللون الأسود على خلفية بيضاء -->
   <img align="left" alt="GitHub" height="18px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
        style="margin-left: 10px;" />
 </a>
 
@@ -18,7 +18,7 @@ I am a passionate **Flutter Developer 📱 & Web Developer 🌐**
 I love building **clean, functional, and user-friendly applications** with a focus on performance and design.  
 I enjoy learning new technologies and turning ideas into real projects 🚀
 
-<img align="right" alt="coding"        src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="360px"/>
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ---
 

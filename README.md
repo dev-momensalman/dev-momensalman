@@ -72,19 +72,45 @@ I enjoy learning new technologies and turning ideas into real projects 🚀
 
 ---
 
+---
+
 ### 🚀 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/momensalman/" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" style="margin-right:10px"/>
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+
+  <!-- LinkedIn Card -->
+  <a href="https://www.linkedin.com/in/momensalman/" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 15px; border-radius: 10px; background-color: #0A66C2; color: white; font-weight: bold; transition: transform 0.2s;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25"/>
+      LinkedIn
+    </div>
   </a>
-  <a href="https://github.com/dev-momensalman" target="_blank">
-    <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" style="margin-right:10px"/>
+
+  <!-- GitHub Card -->
+  <a href="https://github.com/dev-momensalman" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 15px; border-radius: 10px; background-color: #333; color: white; font-weight: bold; transition: transform 0.2s;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="25"/>
+      GitHub
+    </div>
   </a>
-  <a href="mailto:momensalman78@gmail.com" target="_blank">
-    <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
+
+  <!-- Email Card -->
+  <a href="mailto:momensalman78@gmail.com" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 15px; border-radius: 10px; background-color: #D14836; color: white; font-weight: bold; transition: transform 0.2s;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="25"/>
+      Email
+    </div>
   </a>
-</p>
+
+</div>
+
+<style>
+  div a div:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+</style>
+
 
 ---
 

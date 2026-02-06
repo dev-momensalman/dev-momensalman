@@ -1,8 +1,22 @@
 <div align="center">
-
-| <div align="left"><h1>Hey 👋, I'm Momen Salman!</h1><h3>Passionate Flutter Developer 📱 & Web Developer 🌐</h3>I love building <b>clean, functional, and user-friendly applications</b> with a focus on performance and design. <br><br> <a href="https://www.linkedin.com/in/momensalman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; <a href="https://github.com/dev-momensalman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp; <a href="mailto:momensalman78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZzI2Z3Y4Z3Y4Z3Y4Z3Y4Z3Y4Z3Y4Z3Y4Z3Y4Z3Y4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LMcB8Xtg0Lde6p4mTC/giphy.gif" width="320px" /> |
-| :--- | :--- |
-
+<table border="0">
+  <tr>
+    <td width="60%" align="left">
+      <h1>Hey 👋, I'm Momen Salman!</h1>
+      <h3>Passionate Flutter Developer 📱 & Web Developer 🌐</h3>
+      <p>I love building <b>clean, functional, and user-friendly applications</b> with a focus on performance and design.</p>
+      <br>
+      <a href="https://www.linkedin.com/in/momensalman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      &nbsp;
+      <a href="https://github.com/dev-momensalman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      &nbsp;
+      <a href="mailto:momensalman78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/53084313/191544258-a5501869-7973-4560-8f9f-07085a214d69.gif" width="300px" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---

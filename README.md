@@ -57,7 +57,7 @@
 
 | Project | Category | Tech Stack | Link |
 | :--- | :---: | :---: | :---: |
-| **خليك مؤمن** | Islamic App | Flutter & Firebase | [View](https://github.com/dev-momensalman) |
+| **خليك مؤمن** | Islamic App | Flutter & Firebase | [View]([https://github.com/dev-momensalman](https://play.google.com/store/apps/details?id=com.islamicaudiohub.islamic_audio_hub)) |
 | **To-Do Manager** | Productivity | Flutter & Dart | [View](https://github.com/dev-momensalman/ToDo_List) |
 | **Personal Portfolio** | Web | HTML, CSS, JS | [View](https://github.com/dev-momensalman) |
 | **Educational Platform** | Web | React | [View](https://github.com/dev-momensalman) |

@@ -33,7 +33,7 @@ I build resilient, production-ready apps with a strong focus on **Clean Architec
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,react,nextjs,ts,tailwind,vite,git,github,vscode,postman&theme=dark&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,github,vscode&theme=dark&perline=7" alt="Tech stack" />
 </p>
 
 | Category | Technologies & Tools |
@@ -44,7 +44,6 @@ I build resilient, production-ready apps with a strong focus on **Clean Architec
 | **Hardware & IoT** | Bluetooth Low Energy (BLE), Bluetooth Classic, OBD-II Protocol (ELM327 / ESP32) |
 | **Cloud & Backend** | Firebase (Firestore, Auth, Cloud Messaging, Remote Config, Storage), Supabase, REST APIs |
 | **Local Storage** | Hive, SQLite (sqflite), Shared Preferences, Secure Storage |
-| **Web Development** | React, Next.js, TypeScript, Tailwind CSS, Vite |
 | **Dev Tools & Workflow** | Git, GitHub, VS Code, Android Studio, Postman |
 
 ---

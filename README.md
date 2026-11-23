@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Mobile Application Developer** specializing in **Flutter & Dart**, with hands-on experience building production applications published on the Google Play Store, complex automotive telemetry solutions (OBD-II), and hardware-interfacing apps.
+I am a passionate **Mobile Application Developer** specializing in **Flutter & Dart**, with hands-on experience building production applications published on the Google Play Store and hardware-interfacing mobile apps.
 
 I build resilient, production-ready apps with a strong focus on **Clean Architecture**, structured state management (**BLoC / Cubit & Provider**), offline-first local storage, and smooth 60fps animations.
 
 - 📱 Core focus: **Cross-platform Mobile Development (Flutter & Dart)**
-- ⚡ Hardware & Telemetry: **BLE, Bluetooth Classic, OBD-II (ELM327 / ESP32)**
+- ⚡ Hardware & IoT: **BLE, Bluetooth Classic, Embedded Controllers**
 - ☁️ Cloud & Backend Integration: **Firebase Suite (Auth, Firestore, FCM, Remote Config) & Supabase**
 - 🌐 Web Interfaces: **React, TypeScript, Next.js, and Tailwind CSS**
 - 🚀 Production App: **[Khaleek Momen](https://play.google.com/store/apps/details?id=com.islamicaudiohub.islamic_audio_hub)** live on Google Play
@@ -41,7 +41,7 @@ I build resilient, production-ready apps with a strong focus on **Clean Architec
 | **Mobile Development** | Flutter, Dart, Android SDK |
 | **State Management** | BLoC, Cubit, Provider |
 | **Architecture & Design** | Clean Architecture, Feature-First, Repository Pattern, SOLID Principles |
-| **Hardware & IoT** | Bluetooth Low Energy (BLE), Bluetooth Classic, OBD-II Protocol (ELM327 / ESP32) |
+| **Hardware & IoT** | Bluetooth Low Energy (BLE), Bluetooth Classic, IoT Protocols |
 | **Cloud & Backend** | Firebase (Firestore, Auth, Cloud Messaging, Remote Config, Storage), Supabase, REST APIs |
 | **Local Storage** | Hive, SQLite (sqflite), Shared Preferences, Secure Storage |
 | **Dev Tools & Workflow** | Git, GitHub, VS Code, Android Studio |
@@ -50,21 +50,20 @@ I build resilient, production-ready apps with a strong focus on **Clean Architec
 
 ## 🌟 Featured Projects
 
-### 🚗 OBD Vision — Intelligent Vehicle Diagnostics & Telemetry
-A high-performance automotive diagnostic and telemetry mobile application that interfaces directly with vehicle ECUs via **OBD-II (BLE / ELM327 / ESP32)**. Features real-time sensor telemetry, diagnostic trouble code (DTC) scanning, freeze-frame engine snapshots, and a cyberpunk cockpit gauge dashboard.
-
-- **Key Highlights:** Clean Architecture + BLoC, real-time PID stream parsing over BLE, DTC scan (Modes 03/07/02), vehicle garage management, service center booking flow, and Firebase Firestore cloud sync.
-- **Tech Stack:** `Flutter` `Dart` `BLoC` `Bluetooth Low Energy (BLE)` `OBD-II / ELM327` `Clean Architecture` `Firestore`
-- **Links:** [Source Code](https://github.com/dev-momensalman/OBD)
-
----
-
 ### 🕌 Khaleek Momen (خليك مؤمن) — Production Islamic Companion
 A full-featured Islamic companion app published and actively maintained on Google Play with over 15 release updates. Designed with a smooth UI and reliable background services.
 
 - **Key Highlights:** Accurate prayer times & Adhan engine (geolocation), full Quran audio player with background playback (`just_audio` + `audio_service`), live Islamic radio streaming, Azkar, Qibla compass, offline caching with Hive, Home Screen Widgets, and Windows Desktop support (System Tray).
 - **Tech Stack:** `Flutter` `Dart` `Provider` `Hive` `just_audio` `audio_service` `Local Notifications` `Geolocator`
 - **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.islamicaudiohub.islamic_audio_hub) • *(Proprietary Production App)*
+
+---
+
+### 🚧 Vehicle Telemetry & Diagnostics Platform *(Under Construction / قيد التطوير)*
+A real-time telemetry and vehicle diagnostics mobile platform interfacing with automotive sensors and hardware over BLE. Designed with Clean Architecture and reactive streams.
+
+- **Status:** 🚧 In Active Development (Under Construction)
+- **Tech Stack:** `Flutter` `Dart` `BLoC` `BLE` `Clean Architecture`
 
 ---
 

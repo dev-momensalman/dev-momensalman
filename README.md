@@ -44,7 +44,7 @@ I build resilient, production-ready apps with a strong focus on **Clean Architec
 | **Hardware & IoT** | Bluetooth Low Energy (BLE), Bluetooth Classic, OBD-II Protocol (ELM327 / ESP32) |
 | **Cloud & Backend** | Firebase (Firestore, Auth, Cloud Messaging, Remote Config, Storage), Supabase, REST APIs |
 | **Local Storage** | Hive, SQLite (sqflite), Shared Preferences, Secure Storage |
-| **Dev Tools & Workflow** | Git, GitHub, VS Code, Android Studio, Postman |
+| **Dev Tools & Workflow** | Git, GitHub, VS Code, Android Studio |
 
 ---
 

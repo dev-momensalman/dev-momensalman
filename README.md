@@ -19,7 +19,7 @@
 
 I am a passionate **Mobile Application Developer** specializing in **Flutter & Dart**, with hands-on experience building production applications published on the Google Play Store, complex automotive telemetry solutions (OBD-II), and hardware-interfacing apps.
 
-I build resilient, production-ready apps with a strong focus on **Clean Architecture**, scalable state management (**BLoC/Cubit, Riverpod, Provider**), offline-first local storage, and smooth 60fps animations.
+I build resilient, production-ready apps with a strong focus on **Clean Architecture**, structured state management (**BLoC / Cubit & Provider**), offline-first local storage, and smooth 60fps animations.
 
 - 📱 Core focus: **Cross-platform Mobile Development (Flutter & Dart)**
 - ⚡ Hardware & Telemetry: **BLE, Bluetooth Classic, OBD-II (ELM327 / ESP32)**
@@ -39,7 +39,7 @@ I build resilient, production-ready apps with a strong focus on **Clean Architec
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Mobile Development** | Flutter, Dart, Android SDK |
-| **State Management** | BLoC / Cubit, Riverpod, Provider, GetX |
+| **State Management** | BLoC, Cubit, Provider |
 | **Architecture & Design** | Clean Architecture, Feature-First, Repository Pattern, SOLID Principles |
 | **Hardware & IoT** | Bluetooth Low Energy (BLE), Bluetooth Classic, OBD-II Protocol (ELM327 / ESP32) |
 | **Cloud & Backend** | Firebase (Firestore, Auth, Cloud Messaging, Remote Config, Storage), Supabase, REST APIs |
@@ -64,7 +64,7 @@ A full-featured Islamic companion app published and actively maintained on Googl
 
 - **Key Highlights:** Accurate prayer times & Adhan engine (geolocation), full Quran audio player with background playback (`just_audio` + `audio_service`), live Islamic radio streaming, Azkar, Qibla compass, offline caching with Hive, Home Screen Widgets, and Windows Desktop support (System Tray).
 - **Tech Stack:** `Flutter` `Dart` `Provider` `Hive` `just_audio` `audio_service` `Local Notifications` `Geolocator`
-- **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.islamicaudiohub.islamic_audio_hub) • [Source Code](https://github.com/dev-momensalman/KhaleekMomen)
+- **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.islamicaudiohub.islamic_audio_hub) • *(Proprietary Production App)*
 
 ---
 
@@ -72,8 +72,8 @@ A full-featured Islamic companion app published and actively maintained on Googl
 Graduation project: An AI-assisted collaboration platform connecting developers with high-impact software projects based on skill verification and GitHub profile analysis.
 
 - **Key Highlights:** Role-first glassmorphism onboarding, Google Gemini AI integration for profile analysis and matchmaking, Firebase Auth & Firestore, FCM push notifications, build flavors (`free` vs `pro`), and R8/ProGuard code obfuscation.
-- **Tech Stack:** `Flutter` `Dart` `GetX` `Firebase` `Gemini AI` `GitHub REST API` `flutter_animate`
-- **Links:** [Source Code](https://github.com/dev-momensalman/dev_match_app)
+- **Tech Stack:** `Flutter` `Dart` `BLoC` `Firebase` `Gemini AI` `GitHub REST API` `flutter_animate`
+- **Links:** *(Private Repository)*
 
 ---
 
@@ -90,12 +90,12 @@ A modern, dark-themed responsive portfolio showcasing projects, interactive UI e
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **🏎️ IOT Controller (RC Drive)** | Low-latency Bluetooth Classic controller for embedded robotics with ergonomic D-Pad, 4-speed gears, and cruise control. | Flutter, Provider, Bluetooth Classic | [Code](https://github.com/dev-momensalman/IOT_Controller) |
-| **⚡ VoltLink** | Futuristic WiFi remote controller turning your mobile device into a PC system control center (power, audio, media). | Flutter, Cubit, HTTP, Python Bridge | [Code](https://github.com/dev-momensalman/VoltLink) |
+| **⚡ VoltLink** | Futuristic WiFi remote controller turning your mobile device into a PC system control center (power, audio, media). | Flutter, Cubit, HTTP, Python Bridge | 🔒 Private |
 | **🌤️ Weather App** | Bilingual weather forecasting app with location detection, city search, hourly/daily forecasts, and clean state handling. | Flutter, Dart, BLoC/Cubit, WeatherAPI | [Code](https://github.com/dev-momensalman/Weather_App) |
-| **🚕 Ride App (UI Prototype)** | Clean mobile ride-hailing client with phone OTP authentication and interactive booking screen flows. | Flutter, Riverpod, GoRouter, Dio | [Code](https://github.com/dev-momensalman/ride_app) |
-| **🏋️ SalmanFit** | Responsive sports facility booking and fitness platform with AI workout assistant integration. | React, TypeScript, Firebase, Gemini AI | [Code](https://github.com/dev-momensalman/SalmanFit) |
+| **🚕 Ride App (UI Prototype)** | Clean mobile ride-hailing client with phone OTP authentication and interactive booking screen flows. | Flutter, BLoC, GoRouter, Dio | 🔒 Private |
+| **🏋️ SalmanFit** | Responsive sports facility booking and fitness platform with AI workout assistant integration. | React, TypeScript, Firebase, Gemini AI | 🔒 Private |
 | **📝 To-Do List** | Offline-first task management application with clean list organization and local database persistence. | Flutter, SQLite (sqflite) | [Code](https://github.com/dev-momensalman/ToDo_List) |
-| **🌍 London Export** | Multilingual commercial export catalog web application with responsive layout and animated transitions. | React, Vite, Framer Motion | [Code](https://github.com/dev-momensalman/london-export-react) |
+| **🌍 London Export** | Multilingual commercial export catalog web application with responsive layout and animated transitions. | React, Vite, Framer Motion | 🔒 Private |
 
 ---
 
